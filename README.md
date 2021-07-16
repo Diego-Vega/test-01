@@ -1,2 +1,2 @@
 # test-01
-Repositorio de preuba
+Repositorio de prueba

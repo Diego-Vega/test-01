@@ -1,0 +1,43 @@
+body{
+    background-color: steelblue;
+}
+
+/* selector universal */
+/* *{
+    background-color: brown;
+} */
+
+/* selector de etiqueta*/
+/* h1{
+    background-color: beige;
+}
+p{
+    background-color: aqua;
+} */
+
+/* #title{
+    background-color: rgb(149, 149, 243);
+} */
+
+/* .title{
+    background-color: rgb(149, 149, 243);
+} */
+
+/* [href]{
+    background-color:blueviolet;
+} */
+/* [href="www.hola.co"]{
+    background-color:blueviolet;
+} */
+/* [href^="www"]{
+    background-color:blueviolet;
+} */
+/* [href*="hola"]{
+    background-color:blueviolet;
+} */
+/* [href$="co"]{
+    background-color:blueviolet;
+} */
+[lang|="en"]{
+    background-color: aqua;
+}
